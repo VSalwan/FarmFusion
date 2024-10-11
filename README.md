@@ -26,15 +26,15 @@ The **Soil Quality Assessment and Crop Prediction System** is an innovative proj
 - Purchase Fertilizers: Navigate to the e-commerce section to select and buy the recommended fertilizers.
 
 ## License
-- **This project is licensed under the MIT License - see the LICENSE file for details.
+- This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- **Thanks to the contributors and all who provided feedback and suggestions for this project.
-- **Special thanks to [Sarthak Narang , Anamika Sharma(Mentor)]
+- Thanks to the contributors and all who provided feedback and suggestions for this project.
+- pecial thanks to [Sarthak Narang , Anamika Sharma(Mentor)]
 
 ## Contact
-- **or any inquiries or questions regarding this project, feel free to reach out
-- **Email:- vsalwan43@gmail.com
-- **Github:- VSalwan
+- any inquiries or questions regarding this project, feel free to reach out:-
+- Email:- vsalwan43@gmail.com
+- Github:- VSalwan
 
 
