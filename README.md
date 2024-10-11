@@ -20,3 +20,21 @@ The **Soil Quality Assessment and Crop Prediction System** is an innovative proj
 - **APIs**: For e-commerce functionalities and third-party services
 
 
+## Usage
+-Input Parameters: Enter the readings from the sensors such as temperature, humidity, soil type, etc
+-Get Predictions: Click on the 'Submit' button to receive crop recommendations and fertilizer suggestions.
+-Purchase Fertilizers: Navigate to the e-commerce section to select and buy the recommended fertilizers.
+
+## License
+-This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+-Thanks to the contributors and all who provided feedback and suggestions for this project.
+-Special thanks to [Sarthak Narang , Anamika Sharma(Mentor)]
+
+## Contact
+-or any inquiries or questions regarding this project, feel free to reach out
+-Email:- vsalwan43@gmail.com
+-Github:- VSalwan
+
+
